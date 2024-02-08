@@ -1,0 +1,13 @@
+#root {
+    margin: 0 auto;
+}
+
+.read-the-docs {
+    color: #888;
+}
+
+@media (prefers-color-scheme: light) {
+    #root {
+        background-color: #ffffff;
+    }
+}
